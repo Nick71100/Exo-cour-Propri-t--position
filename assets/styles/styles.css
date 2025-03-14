@@ -27,7 +27,7 @@ header p {
 
 main {
     width: 80%;
-    margin: 0 auto;
+    margin: 30px auto;
     border: 1px dashed red;
     padding: 15px;
     background-color: #dddddd;
